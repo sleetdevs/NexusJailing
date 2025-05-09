@@ -35,7 +35,7 @@
 
 ## ⚙️ Configuration
 
-Edit `config.lua` to customize webhook and locations:
+> Edit `config.lua` to customize webhook and locations:
 
 ```lua
 -- config.lua
@@ -48,22 +48,20 @@ return {
 ```
 
 🚀 Installation
-Clone or download the repository:
-```git clone https://github.com/yourusername/NexusJailing.git```
-Place the folder into your resources directory.
-
-Add the resource to your server.cfg:
-ensure NexusJailing
-Update the webhook and positions in config.lua.
+> Clone or download the repository:
+> ```git clone https://github.com/yourusername/NexusJailing.git```
+> Place the folder into your resources directory.
+> Add the resource to your server.cfg:
+>ensure NexusJailing
+>Update the webhook and positions in config.lua.
 
 ✅ Requirements
-ox_lib – Required for UI support.
+> ox_lib – Required for UI support.
 
 🛡️ Permissions
-Only users with the following permission can use the system:
-
-NexusJailing.Staff
-Make sure to assign this using your permission framework (e.g. ace, vMenu, or qb-core).
+> Only users with the following permission can use the system:
+> NexusJailing.Staff
+> Make sure to assign this using your permission framework (e.g. ace, vMenu, or qb-core).
 
 📄 License
-This project is licensed under the MIT License.
+> This project is licensed under the MIT License.
