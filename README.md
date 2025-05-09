@@ -64,3 +64,6 @@ Only users with the following permission can use the system:
 
 NexusJailing.Staff
 Make sure to assign this using your permission framework (e.g. ace, vMenu, or qb-core).
+
+📄 License
+This project is licensed under the MIT License.
