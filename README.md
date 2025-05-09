@@ -1,4 +1,4 @@
-# 🚔 NexusJailing - Staff Jail System
+# NexusJailing - Staff Jail System
 
 **NexusJailing** is a lightweight and modern **staff jail system** for FiveM. Built with `ox_lib` for a clean and responsive UI, it provides staff with an intuitive way to jail and unjail players with time-based control, MRPD jail positioning, and Discord webhook logging.
 
